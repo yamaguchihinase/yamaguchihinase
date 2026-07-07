@@ -1,4 +1,4 @@
-alert('Hello,Togo');
+alert('Hello,Hinase');
 alert(1+1);
 alert(Math.sqrt(1+1));
 alert(Math.sqrt(2) + Math.sqrt(3));
